@@ -1,6 +1,6 @@
 ## Hi, I'm Nicholas Goll
 
-I'm a Computer Science Student at DePaul University with a concentration in Software Development. I am expected to graduate in the spring of 2027. I'm interested in backend development - building well-structured systems, desgining APIs, and writing code that is maintainable.
+I'm a Computer Science Student at DePaul University with a concentration in Software Development. I am expected to graduate in the spring of 2027. I'm interested in backend development - building well-structured systems, designing APIs, and writing code that is maintainable.
 
 I'm currently seeking **Summer 2026 Software Engineering Internships**.
 
