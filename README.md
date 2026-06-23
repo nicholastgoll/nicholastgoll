@@ -1,8 +1,8 @@
 ## Hi, I'm Nicholas Goll
 
-I'm a Computer Science Student at DePaul University with a concentration in Software Development. I am expected to graduate in the spring of 2027. I'm interested in backend development - building well-structured systems, designing APIs, and writing code that is maintainable.
+I'm a Computer Science Student at DePaul University with a concentration in Software Development and a Minor in Data Science. I am expected to graduate in the spring of 2027. I'm interested in backend development, computer systems, data engineering, and data analysis.
 
-I'm currently seeking **Summer 2026 Software Engineering Internships**.
+I'm currently seeking **Internships**.
 
 ## Featured Project
  
@@ -17,13 +17,13 @@ A Pong game with a modular architecture designed around swappable input controll
   - Exponential moving average (EMA) smoothing for noisy input data
   - Clean package structure with separated concerns across controllers, game logic, and UI
  
-## Tech I Work With
+## Technology/Tools I work with
  
-**Languages:** Java, Python, JavaScript, SQL
+**Languages:** Java, Python, JavaScript, SQL, C/C++
 
-**Tools & Platforms:** Git/GitHub, Bash, AI Tools for Development (Claude Code, Cursor, etc.), Linux, SSH, Raspberry Pi
+**Tools & Platforms:** Git/GitHub, Bash, Linux, SSH, AI Tools for Development
 
-**Libraries:** Pygame, Bottle, gpiozero, Pandas, NumPy, matplotlib, scikit-learn
+**Libraries:** Pandas, NumPy, matplotlib, scikit-learn
  
 ## Let's Connect
  
